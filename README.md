@@ -2,8 +2,8 @@
 
 <div>
 <a href="https://github.com/ycborg">
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycborg&theme=radical&hide_border=false&&layout=compact"/>
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=ycborg&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycborg&theme=radical&hide_border=false&&layout=compact"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ycborg&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
 </a>
 </div>
 
@@ -16,4 +16,4 @@
 
 ##
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ycborg/ycborg/blob/output/github-contribution-grid-snake.svg)
